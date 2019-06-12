@@ -1,6 +1,4 @@
-### Made with Create React App
-
-======
+## Made with Create React App
 
 To replicate locally:
 1. create-react-app example
